@@ -3,7 +3,7 @@
 Welcome to my data world portfolio 🌍  
 
 ## 📚 Table of Contents
-
+- [SQL](#sql)
 # SQL
 
 | CaseStudy Link | Area of Analysis | Project Description | 
